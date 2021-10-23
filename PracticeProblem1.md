@@ -1,6 +1,6 @@
-*Practice Problem #1* 
+# Practice Problem #1
 
-Add it
+# Add it
 
 Write a program to add a number to every digits of a given number if it exceeds by 10 then consider only it's last digit.
 
