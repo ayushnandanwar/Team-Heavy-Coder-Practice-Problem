@@ -3,9 +3,10 @@
 
 for 24th coding contest 
 
-Write a program to find common and distinct elements from two arrays and print it.
+**Write a program to find common and distinct elements from two arrays and print it.** 
 
 Test case 
+
 Input
 
 6
